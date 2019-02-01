@@ -12,4 +12,4 @@ Colors used in this app are,
 * Color 1: #EFF7FF
 * Color 2: #D7263D
 * Color 3: #4E8080
-* Color 4: #ff9500
+* Color 4: #FF9500
